@@ -10,7 +10,7 @@ Over my career, I have been deeply involved in many niche technology projects, w
 
 I like to read books on science, philosophy, and business strategy in my spare time. I am also an avid biohacker interested in cellular mechanics,  biochemistry, and genetic engineering.
 
-## Projects
+## Main Projects
 
 I founded several companies and built some somewhat useful things.
 
@@ -37,6 +37,10 @@ Websecurify is an application security company based in London. Websecurify was 
 I founded GNUCITIZEN to advance public understanding of offensive and defensive information security technologies, to educate and share information with its members and the public on best practices, tools, and techniques for such coverage, and to represent the interests of its members.
 
 This has been my personal space for a long time.
+
+## Other Projects
+
+I still try to push these projects along but they may soon become defunct.
 
 ### [PownJS](https://pownjs.com)
 
