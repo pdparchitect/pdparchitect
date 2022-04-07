@@ -8,4 +8,4 @@ In 2007 I founded GNUCITIZEN, a non-profit Information Security Think Tank, whic
 
 Over my career, I have been deeply involved in many niche technology projects, which have become mainstream over time. This includes the development of 3rd engines back in the days of Doom and Quake, bringing security products and innovation to first versions of the iPhone and other common mobile platforms, early involvement in 3rd-printing and cryptocurrencies, and development of early prototypes of 3d worlds and games for VR and AR and others.
 
-I like to read books on science, philosophy, and business strategy in my spare time. I am also an avid biohacker interested in cellular mechanics, biochemistry and generic engineering.
+I like to read books on science, philosophy, and business strategy in my spare time. I am also an avid biohacker interested in cellular mechanics, biochemistry and genetic engineering.
