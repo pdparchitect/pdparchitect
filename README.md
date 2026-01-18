@@ -13,7 +13,7 @@
 
 > Building the future of conversational AI and exploring the security boundaries of Large Language Models.
 
-�� **[ChatBotKit](https://chatbotkit.com)** – Agentic AI platform for building AI agents and conversational AI systems.
+**[ChatBotKit](https://chatbotkit.com)** – Agentic AI platform for building AI agents and conversational AI systems.
 
 ## Current Projects
 
@@ -22,7 +22,7 @@
 - 🌐 **[go-revp](https://github.com/pdparchitect/go-revp)** - Simple Go reverse proxy, automatically cross-compiled
 - 👶 **[hacking-for-kids](https://github.com/pdparchitect/hacking-for-kids)** - Teaching kids hacking techniques to get them started early with security
 
-## Experiments
+## Early AI Experiments
 
 - 🤖 **[ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant)** - Your friendly neighborhood ChatGPT assistant
 - 💼 **[ChatGPT-JobsForBots](https://github.com/pdparchitect/ChatGPT-JobsForBots)** - Because even bots need jobs! ([Live Demo](https://jobsforbots.vercel.app))
