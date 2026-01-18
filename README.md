@@ -17,8 +17,8 @@
 
 ## Current Projects
 
-- 🔒 **[llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)** - Comprehensive database of attack vectors against Large Language Models
 - 🖥️ **[agentos](https://github.com/pdparchitect/agentos)** - Experimental agent operating system written in Go
+- 🔒 **[llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)** - Comprehensive database of attack vectors against Large Language Models
 - 🌐 **[go-revp](https://github.com/pdparchitect/go-revp)** - Simple Go reverse proxy, automatically cross-compiled
 - 👶 **[hacking-for-kids](https://github.com/pdparchitect/hacking-for-kids)** - Teaching kids hacking techniques to get them started early with security
 
