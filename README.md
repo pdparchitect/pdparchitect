@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm pdparchitect 👋
 
-<!--
-**pdparchitect/pdparchitect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **Maker** | 🔐 **Security and Hacking** | 💼 **Sometimes CISO**
 
-Here are some ideas to get you started:
+![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Security](https://img.shields.io/badge/-Security-FF0000?style=flat-square&logo=lock&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Building the future of conversational AI and exploring the security boundaries of Large Language Models.
+
+�� **[ChatBotKit](https://chatbotkit.com)** – Agentic AI platform for building AI agents and conversational AI systems.
+
+## Current Projects
+
+- 🔒 **[llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)** - Comprehensive database of attack vectors against Large Language Models
+- 🖥️ **[agentos](https://github.com/pdparchitect/agentos)** - Experimental agent operating system written in Go
+- 🌐 **[go-revp](https://github.com/pdparchitect/go-revp)** - Simple Go reverse proxy, automatically cross-compiled
+- 👶 **[hacking-for-kids](https://github.com/pdparchitect/hacking-for-kids)** - Teaching kids hacking techniques to get them started early with security
+
+## Experiments
+
+- 🤖 **[ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant)** - Your friendly neighborhood ChatGPT assistant
+- 💼 **[ChatGPT-JobsForBots](https://github.com/pdparchitect/ChatGPT-JobsForBots)** - Because even bots need jobs! ([Live Demo](https://jobsforbots.vercel.app))
+- 💻 **[codepal](https://github.com/pdparchitect/codepal)** - Your coding companion, making development a bit more friendly
+- 🏓 **[ChatGPT-Pong](https://github.com/pdparchitect/ChatGPT-Pong)** - Classic Pong game, ChatGPT style
+- 🎨 **[ChatGPT-AvatarFactoryAI](https://github.com/pdparchitect/ChatGPT-AvatarFactoryAI)** - Avatar generation powered by AI ([Live Demo](https://avatarfactoryai.vercel.app))
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/pdparchitect)
+
+## What I'm Doing
+
+- **Building ChatBotKit** - Creating an agentic AI platform for the next generation of conversational AI
+- **Security Research** - Exploring vulnerabilities and attack vectors in Large Language Models
+- **Open Source** - Contributing to the community with tools, libraries, and educational resources
+
+---
+
+### Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=pdparchitect&color=blueviolet&style=flat-square&label=Profile+Views)
