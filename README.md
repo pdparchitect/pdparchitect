@@ -18,7 +18,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Security](https://img.shields.io/badge/-Security-FF0000?style=flat-square&logo=security&logoColor=white)
+![Security](https://img.shields.io/badge/-Security-FF0000?style=flat-square&logo=lock&logoColor=white)
 
 > Building the future of conversational AI and exploring the security boundaries of Large Language Models.
 
