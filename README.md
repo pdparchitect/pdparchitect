@@ -15,6 +15,10 @@
 
 **[ChatBotKit](https://chatbotkit.com)** – Agentic AI platform for building AI agents and conversational AI systems.
 
+## Other SaaS
+
+**[FormShare](https://formshare.ai)** - Create conversational AI forms — for free. Simply describe your form and let us handle the rest.
+
 ## Current Projects
 
 - 🖥️ **[agentos](https://github.com/pdparchitect/agentos)** - Experimental agent operating system written in Go
