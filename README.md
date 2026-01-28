@@ -45,6 +45,10 @@
 - **Security Research** - Exploring vulnerabilities and attack vectors in Large Language Models
 - **Open Source** - Contributing to the community with tools, libraries, and educational resources
 
+## Ideas you can Steal
+
+- **RsCode** - VsCode but rewritten in rust and compiled to webassembly with canvas rendering for fast and smooth in-browser web-based development environment
+ 
 ---
 
 ### Stats
