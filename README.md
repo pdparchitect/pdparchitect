@@ -15,6 +15,11 @@
 
 **[ChatBotKit](https://chatbotkit.com)** – Agentic AI platform for building AI agents and conversational AI systems.
 
+## Recent Open Source Work
+
+- 📦 **[ChatBotKit Node SDK](https://github.com/chatbotkit/node-sdk)** - The official ChatBotKit Node SDK for building conversational AI bots and agents
+- 🏗️ **[ChatBotKit Terraform Provider](https://github.com/chatbotkit/terraform-provider-chatbotkit)** - Terraform provider for managing ChatBotKit resources as infrastructure as code
+
 ## Other SaaS
 
 - **[FormShare](https://formshare.ai)** - Create conversational AI forms — for free. Simply describe your form and let us handle the rest.
