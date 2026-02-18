@@ -17,6 +17,7 @@
 
 ## Recent Open Source Work
 
+- 🤖 **[Pantalk](https://github.com/pantalk)** - Give all your AI assistant (codex, gemini, claude code) communication tools for slack, discord, etc
 - 📦 **[ChatBotKit Node SDK](https://github.com/chatbotkit/node-sdk)** - The official ChatBotKit Node SDK for building conversational AI bots and agents
 - 🏗️ **[ChatBotKit Terraform Provider](https://github.com/chatbotkit/terraform-provider-chatbotkit)** - Terraform provider for managing ChatBotKit resources as infrastructure as code
 
