@@ -1,7 +1,7 @@
 # Hi, I'm pdparchitect 👋
 
-**[CBK.AI](https://cbk.ai)** – Agentic AI platform for building AI agents and conversational AI systems.
-**[ChatBotKit](https://chatbotkit.com)** – Agentic AI builder built on top of CBK.AI
+- **[CBK.AI](https://cbk.ai)** – Agentic AI platform for building AI agents and conversational AI systems.
+- **[ChatBotKit](https://chatbotkit.com)** – Agentic AI builder built on top of CBK.AI
 
 ## Recent Open Source Work
 
