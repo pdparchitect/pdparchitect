@@ -1,7 +1,7 @@
 # Hi, I'm pdparchitect 👋
 
-- **[CBK.AI](https://cbk.ai)** – Agentic AI platform for building AI agents and conversational AI systems.
-- **[ChatBotKit](https://chatbotkit.com)** – Agentic AI builder built on top of CBK.AI
+- 🤖 **[CBK.AI](https://cbk.ai)** – Agentic AI platform for building AI agents and conversational AI systems.
+- 💬 **[ChatBotKit](https://chatbotkit.com)** – Agentic AI builder built on top of CBK.AI
 
 ## Recent Open Source Work
 
@@ -11,8 +11,8 @@
 
 ## Other SaaS
 
-- **[FormShare](https://formshare.ai)** - Create conversational AI forms — for free. Simply describe your form and let us handle the rest.
-- **[AfterDark](https://afterdark.so)** - Build information digest with AI - for free. Describe what you want, let the AI do the work.
+- 📝 **[FormShare](https://formshare.ai)** - Create conversational AI forms — for free. Simply describe your form and let us handle the rest.
+- 🌙 **[AfterDark](https://afterdark.so)** - Build information digest with AI - for free. Describe what you want, let the AI do the work.
 
 ## Current Projects
 
