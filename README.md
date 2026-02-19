@@ -1,19 +1,7 @@
 # Hi, I'm pdparchitect 👋
 
-🤖 **Maker** | 🔐 **Security and Hacking** | 💼 **Sometimes CISO**
-
-![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Security](https://img.shields.io/badge/-Security-FF0000?style=flat-square&logo=lock&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-> Building the future of conversational AI and exploring the security boundaries of Large Language Models.
-
-**[ChatBotKit](https://chatbotkit.com)** – Agentic AI platform for building AI agents and conversational AI systems.
+**[CBK.AI](https://cbk.ai)** – Agentic AI platform for building AI agents and conversational AI systems.
+**[ChatBotKit](https://chatbotkit.com)** – Agentic AI builder built on top of CBK.AI
 
 ## Recent Open Source Work
 
