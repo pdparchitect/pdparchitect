@@ -31,6 +31,8 @@
 - 🏓 **[ChatGPT-Pong](https://github.com/pdparchitect/ChatGPT-Pong)** - Classic Pong game, ChatGPT style
 - 🎨 **[ChatGPT-AvatarFactoryAI](https://github.com/pdparchitect/ChatGPT-AvatarFactoryAI)** - Avatar generation powered by AI ([Live Demo](https://avatarfactoryai.vercel.app))
 
+**NOTE:** these projects are not significant by any stretch of imagination and they where way, way too early but now it looks like they where all in the right direction
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/pdparchitect)
