@@ -16,22 +16,13 @@
 - 📝 **[FormShare](https://formshare.ai)** - Create conversational AI forms — for free. Simply describe your form and let us handle the rest.
 - 🌙 **[AfterDark](https://afterdark.so)** - Build information digest with AI - for free. Describe what you want, let the AI do the work.
 
-## Current Projects
+## Other Projects
 
+- 🔒 **[pownjs](https://github.com/pownjs)** - A security framework buil on top of Node
 - 🖥️ **[agentos](https://github.com/pdparchitect/agentos)** - Experimental agent operating system written in Go
 - 🔒 **[llm-hacking-database](https://github.com/pdparchitect/llm-hacking-database)** - Comprehensive database of attack vectors against Large Language Models
 - 🌐 **[go-revp](https://github.com/pdparchitect/go-revp)** - Simple Go reverse proxy, automatically cross-compiled
 - 👶 **[hacking-for-kids](https://github.com/pdparchitect/hacking-for-kids)** - Teaching kids hacking techniques to get them started early with security
-
-## Early AI Experiments
-
-- 🤖 **[ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant)** - Your friendly neighborhood ChatGPT assistant
-- 💼 **[ChatGPT-JobsForBots](https://github.com/pdparchitect/ChatGPT-JobsForBots)** - Because even bots need jobs! ([Live Demo](https://jobsforbots.vercel.app))
-- 💻 **[codepal](https://github.com/pdparchitect/codepal)** - Your coding companion, making development a bit more friendly
-- 🏓 **[ChatGPT-Pong](https://github.com/pdparchitect/ChatGPT-Pong)** - Classic Pong game, ChatGPT style
-- 🎨 **[ChatGPT-AvatarFactoryAI](https://github.com/pdparchitect/ChatGPT-AvatarFactoryAI)** - Avatar generation powered by AI ([Live Demo](https://avatarfactoryai.vercel.app))
-
-**NOTE:** these projects are not significant by any stretch of imagination and they where way, way too early but now it looks like they where all in the right direction
 
 ## GitHub Activity
 
