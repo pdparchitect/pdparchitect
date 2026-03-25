@@ -30,7 +30,7 @@
 
 ## What I'm Doing
 
-- **Building ChatBotKit** - Creating an agentic AI platform for the next generation of conversational AI
+- **Building CBK** - Creating an agentic AI platform for the next generation of conversational AI
 - **Security Research** - Exploring vulnerabilities and attack vectors in Large Language Models
 - **Open Source** - Contributing to the community with tools, libraries, and educational resources
 
