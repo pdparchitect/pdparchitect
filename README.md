@@ -5,7 +5,7 @@
 
 ## Recent Open Source Work
 
-- 🔒 **[Rook](https://github.com/chatbotkit/rook) - AI bug hunting harness
+- 🔒 **[Rook](https://github.com/chatbotkit/rook)** - AI bug hunting harness
 - 🖥️ **[MCPShim](https://github.com/mcpshim)** - Turn remote MCP servers into simple shell commands.
 - 🤖 **[Pantalk](https://github.com/pantalk)** - Give all your AI assistant (codex, gemini, claude code) communication tools for slack, discord, etc
 - 📦 **[ChatBotKit Node SDK](https://github.com/chatbotkit/node-sdk)** - The official ChatBotKit Node SDK for building conversational AI bots and agents
