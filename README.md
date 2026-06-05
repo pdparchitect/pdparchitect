@@ -5,6 +5,7 @@
 
 ## Recent Open Source Work
 
+- 🤖 **[CRMKIT](https://crmkit.ai)** - A CRM for AI. Not for Humans.
 - 🔒 **[Rook](https://github.com/chatbotkit/rook)** - AI bug hunting harness
 - 🖥️ **[MCPShim](https://github.com/mcpshim)** - Turn remote MCP servers into simple shell commands.
 - 🤖 **[Pantalk](https://github.com/pantalk)** - Give all your AI assistant (codex, gemini, claude code) communication tools for slack, discord, etc
