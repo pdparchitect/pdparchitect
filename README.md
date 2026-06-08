@@ -41,6 +41,10 @@
 - [Permission To Exist](https://pdp.im/thoughts/permission-to-exist)
 - [Human-AI Coexistence](https://pdp.im/thoughts/human-ai-coexistence)
 - [On The Frontiers of Intelligence](https://pdp.im/thoughts/on-the-frontiers-of-intelligence)
+
+<details>
+<summary>Show more notes</summary>
+
 - [The Nature of Authorship in The AI Era](https://pdp.im/thoughts/the-nature-of-authorship-in-the-ai-era)
 - [On Discursiveness in Reading](https://pdp.im/thoughts/on-discursiveness-in-reading)
 - [Personal Website](https://pdp.im/thoughts/personal-website)
@@ -50,6 +54,8 @@
 - [10 Rules From Books](https://pdp.im/thoughts/10-rules-from-books)
 - [Time And Money](https://pdp.im/thoughts/time-and-money)
 - [Jobs Of Tomorrow](https://pdp.im/thoughts/jobs-of-tomorrow)
+
+</details>
 
 ## Reflections
 
@@ -63,6 +69,10 @@
 - [Everyone Is a VIP Now](https://chatbotkit.com/reflections/reflections/everyone-is-a-vip-now)
 - [I Am an AI Vampire](https://chatbotkit.com/reflections/reflections/i-am-an-ai-vampire)
 - [Thoughts on Disposable Software](https://chatbotkit.com/reflections/reflections/thoughts-on-disposable-software)
+
+<details>
+<summary>Show more reflections</summary>
+
 - [Why We Need Forward Deployed Engineers](https://chatbotkit.com/reflections/reflections/why-we-need-forward-deployed-engineers)
 - [The Model Doesn't Carry Your Mood](https://chatbotkit.com/reflections/reflections/the-model-doesnt-carry-your-mood)
 - [Where Are the Vibe-Coded Success Stories](https://chatbotkit.com/reflections/reflections/where-are-the-vibe-coded-success-stories)
@@ -133,6 +143,8 @@
 - [Why New AI Models Aren't Always Better](https://chatbotkit.com/reflections/reflections/why-new-ai-models-arent-always-better)
 - [The Accelerating Divide in the Age of AI](https://chatbotkit.com/reflections/reflections/the-accelerating-divide-in-the-age-of-ai)
 - [Is It Just About Customer Support](https://chatbotkit.com/reflections/reflections/is-it-just-about-customer-support)
+
+</details>
 
 ## Ideas you can Steal
 
