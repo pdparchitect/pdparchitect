@@ -59,9 +59,20 @@
 
 ## Reflections
 
+- [How People Burn So Many Tokens](https://chatbotkit.com/reflections/how-people-burn-so-many-tokens)
+- [Thoughts on Dark Factories](https://chatbotkit.com/reflections/thoughts-on-dark-factories)
+- [Untrusted Context Belongs in a Tool Call](https://chatbotkit.com/reflections/untrusted-context-belongs-in-a-tool-call)
+- [One Machine, A Hundred Risk Profiles](https://chatbotkit.com/reflections/one-machine-a-hundred-risk-profiles)
+- [If You Need a Mouse, Build a UI](https://chatbotkit.com/reflections/if-you-need-a-mouse-build-a-ui)
+- [You Can Copy What You Can See](https://chatbotkit.com/reflections/you-can-copy-what-you-can-see)
+- [A Firewall for Attention](https://chatbotkit.com/reflections/a-firewall-for-attention)
 - [The Bottleneck Is Somewhere Else](https://chatbotkit.com/reflections/the-bottleneck-is-somewhere-else)
 - [Sub-Agents Are Not the Only Way](https://chatbotkit.com/reflections/sub-agents-are-not-the-only-way)
 - [The First AI Worm](https://chatbotkit.com/reflections/the-first-ai-worm)
+
+<details>
+<summary>Show more reflections</summary>
+
 - [Always-On Red Teams](https://chatbotkit.com/reflections/always-on-red-teams)
 - [Be Your Own Customer](https://chatbotkit.com/reflections/be-your-own-customer)
 - [Build Your Harness for the Weakest Model](https://chatbotkit.com/reflections/build-your-harness-for-the-weakest-model)
@@ -69,10 +80,6 @@
 - [Everyone Is a VIP Now](https://chatbotkit.com/reflections/everyone-is-a-vip-now)
 - [I Am an AI Vampire](https://chatbotkit.com/reflections/i-am-an-ai-vampire)
 - [Thoughts on Disposable Software](https://chatbotkit.com/reflections/thoughts-on-disposable-software)
-
-<details>
-<summary>Show more reflections</summary>
-
 - [Why We Need Forward Deployed Engineers](https://chatbotkit.com/reflections/why-we-need-forward-deployed-engineers)
 - [The Model Doesn't Carry Your Mood](https://chatbotkit.com/reflections/the-model-doesnt-carry-your-mood)
 - [Where Are the Vibe-Coded Success Stories](https://chatbotkit.com/reflections/where-are-the-vibe-coded-success-stories)
@@ -143,6 +150,7 @@
 - [Why New AI Models Aren't Always Better](https://chatbotkit.com/reflections/why-new-ai-models-arent-always-better)
 - [The Accelerating Divide in the Age of AI](https://chatbotkit.com/reflections/the-accelerating-divide-in-the-age-of-ai)
 - [Is It Just About Customer Support](https://chatbotkit.com/reflections/is-it-just-about-customer-support)
+- [From Chatterboxes to Problem Solvers: How AI Chatbots and Humans Create a Virtuous Cycle of Improvement](https://chatbotkit.com/reflections/from-chatterboxes-to-problem-solvers)
 
 </details>
 
