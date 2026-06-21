@@ -162,6 +162,12 @@
 
 </details>
 
+## AI Agents
+
+- [Unprompted](https://chatbotkit.com/hub/blueprints/unprompted)
+- [Arcade](https://chatbotkit.com/hub/blueprints/arcade)
+- [The Algorithm's Favorite Child](https://chatbotkit.com/hub/blueprints/the-algorithms-favorite-child)
+
 ## Ideas you can Steal
 
 - **RsCode** - VsCode but rewritten in rust and compiled to webassembly with canvas rendering for fast and smooth in-browser web-based development environment
