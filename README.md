@@ -60,9 +60,20 @@
 
 ## Reflections
 
+- [The Web 1.0 Moment for AI Agents](https://chatbotkit.com/reflections/the-web-1-0-moment-for-ai-agents)
+- [Scaling Intelligence](https://chatbotkit.com/reflections/scaling-intelligence)
+- [Software Has No Ceiling](https://chatbotkit.com/reflections/software-has-no-ceiling)
+- [Two Kinds of Enterprise Agents](https://chatbotkit.com/reflections/two-kinds-of-enterprise-agents)
+- [Build for Who Is Not Human](https://chatbotkit.com/reflections/build-for-who-is-not-human)
+- [Build a Tool to Write Tools](https://chatbotkit.com/reflections/build-a-tool-to-write-tools)
+- [The Cost of Building a Harness](https://chatbotkit.com/reflections/the-cost-of-building-a-harness)
 - [How People Burn So Many Tokens](https://chatbotkit.com/reflections/how-people-burn-so-many-tokens)
 - [Thoughts on Dark Factories](https://chatbotkit.com/reflections/thoughts-on-dark-factories)
 - [Untrusted Context Belongs in a Tool Call](https://chatbotkit.com/reflections/untrusted-context-belongs-in-a-tool-call)
+
+<details>
+<summary>Show more reflections</summary>
+
 - [One Machine, A Hundred Risk Profiles](https://chatbotkit.com/reflections/one-machine-a-hundred-risk-profiles)
 - [If You Need a Mouse, Build a UI](https://chatbotkit.com/reflections/if-you-need-a-mouse-build-a-ui)
 - [You Can Copy What You Can See](https://chatbotkit.com/reflections/you-can-copy-what-you-can-see)
@@ -70,10 +81,6 @@
 - [The Bottleneck Is Somewhere Else](https://chatbotkit.com/reflections/the-bottleneck-is-somewhere-else)
 - [Sub-Agents Are Not the Only Way](https://chatbotkit.com/reflections/sub-agents-are-not-the-only-way)
 - [The First AI Worm](https://chatbotkit.com/reflections/the-first-ai-worm)
-
-<details>
-<summary>Show more reflections</summary>
-
 - [Always-On Red Teams](https://chatbotkit.com/reflections/always-on-red-teams)
 - [Be Your Own Customer](https://chatbotkit.com/reflections/be-your-own-customer)
 - [Build Your Harness for the Weakest Model](https://chatbotkit.com/reflections/build-your-harness-for-the-weakest-model)
