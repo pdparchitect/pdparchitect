@@ -5,6 +5,7 @@
 
 ## Recent Open Source Work
 
+- 🤖 **[Relentless Works](https://github.com/relentlessworks)** - Autonomous software factory built by AI for AI. - https://relentless.works
 - 🤖 **[CRMKIT](https://github.com/crmkit/crmkit)** - A CRM for AI. Not for Humans. - https://crmkit.ai
 - 🤖 **[Zot](https://github.com/openzot/openzot)** - A minimal autonomous coding harness - https://zot.im
 - 🔒 **[Rook](https://github.com/chatbotkit/rook)** - AI bug hunting harness
@@ -164,6 +165,7 @@
 
 ## AI Agents
 
+- [Paper Trader](https://chatbotkit.com/hub/blueprints/trader)
 - [Unprompted](https://chatbotkit.com/hub/blueprints/unprompted)
 - [Arcade](https://chatbotkit.com/hub/blueprints/arcade)
 - [The Algorithm's Favorite Child](https://chatbotkit.com/hub/blueprints/the-algorithms-favorite-child)
