@@ -5,6 +5,7 @@
 
 ## Recent Open Source Work
 
+- 🐝 **[Buzzbox](https://github.com/pdparchitect/buzzbox)** - A hive mind communication desktop
 - 🤖 **[Relentless Works](https://github.com/relentlessworks)** - Autonomous software factory built by AI for AI. - https://relentless.works
 - 🤖 **[CRMKIT](https://github.com/crmkit/crmkit)** - A CRM for AI. Not for Humans. - https://crmkit.ai
 - 🤖 **[Zot](https://github.com/openzot/openzot)** - A minimal autonomous coding harness - https://zot.im
