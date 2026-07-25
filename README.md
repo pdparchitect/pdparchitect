@@ -9,7 +9,7 @@
 - 🏭 **[Relentless Works](https://github.com/relentlessworks)** - Autonomous software factory built by AI for AI. - https://relentless.works
 - 🗃️ **[CRMKIT](https://github.com/crmkit/crmkit)** - A CRM for AI. Not for Humans. - https://crmkit.ai
 - ⚙️ **[Zot](https://github.com/openzot/openzot)** - A minimal autonomous coding harness - https://zot.im
-- 🔒 **[Rook](https://github.com/chatbotkit/rook)** - AI bug hunting harness
+- 🔒 **[Rook](https://github.com/pdparchitect/rook)** - AI bug hunting harness
 - 🖥️ **[MCPShim](https://github.com/mcpshim)** - Turn remote MCP servers into simple shell commands - https://mcpshim.dev
 - 📡 **[Pantalk](https://github.com/pantalk)** - Give all your AI assistant communication tools for slack, discord, and others - https://pantalk.dev
 - 📦 **[ChatBotKit Node SDK](https://github.com/chatbotkit/node-sdk)** - The official ChatBotKit Node SDK for building conversational AI bots and agents
