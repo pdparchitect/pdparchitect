@@ -6,12 +6,12 @@
 ## Recent Open Source Work
 
 - 🐝 **[Buzzbox](https://github.com/pdparchitect/buzzbox)** - A hive mind communication desktop
-- 🤖 **[Relentless Works](https://github.com/relentlessworks)** - Autonomous software factory built by AI for AI. - https://relentless.works
-- 🤖 **[CRMKIT](https://github.com/crmkit/crmkit)** - A CRM for AI. Not for Humans. - https://crmkit.ai
-- 🤖 **[Zot](https://github.com/openzot/openzot)** - A minimal autonomous coding harness - https://zot.im
+- 🏭 **[Relentless Works](https://github.com/relentlessworks)** - Autonomous software factory built by AI for AI. - https://relentless.works
+- 🗃️ **[CRMKIT](https://github.com/crmkit/crmkit)** - A CRM for AI. Not for Humans. - https://crmkit.ai
+- ⚙️ **[Zot](https://github.com/openzot/openzot)** - A minimal autonomous coding harness - https://zot.im
 - 🔒 **[Rook](https://github.com/chatbotkit/rook)** - AI bug hunting harness
 - 🖥️ **[MCPShim](https://github.com/mcpshim)** - Turn remote MCP servers into simple shell commands.
-- 🤖 **[Pantalk](https://github.com/pantalk)** - Give all your AI assistant (codex, gemini, claude code) communication tools for slack, discord, etc
+- 📡 **[Pantalk](https://github.com/pantalk)** - Give all your AI assistant (codex, gemini, claude code) communication tools for slack, discord, etc
 - 📦 **[ChatBotKit Node SDK](https://github.com/chatbotkit/node-sdk)** - The official ChatBotKit Node SDK for building conversational AI bots and agents
 - 🌐 **[ChatBotKit Go SDK](https://github.com/chatbotkit/go-sdk)** - The official ChatBotKit Go SDK for building conversational AI bots and agents
 - 🏗️ **[ChatBotKit Terraform Provider](https://github.com/chatbotkit/terraform-provider-chatbotkit)** - Terraform provider for managing ChatBotKit resources as infrastructure as code
