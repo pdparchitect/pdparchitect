@@ -6,9 +6,10 @@
 ## Recent Open Source Work
 
 - 🐝 **[Buzzbox](https://github.com/pdparchitect/buzzbox)** - A hive mind communication desktop
+- 🖥️ **[Buzznode](https://github.com/pdparchitect/buzznode)** - A persistent computer for a single hive mind agent
 - 🏭 **[Relentless Works](https://github.com/relentlessworks)** - Autonomous software factory built by AI for AI. - https://relentless.works
 - 🗃️ **[CRMKIT](https://github.com/crmkit/crmkit)** - A CRM for AI. Not for Humans. - https://crmkit.ai
-- ⚙️ **[Zot](https://github.com/openzot/openzot)** - A minimal autonomous coding harness - https://zot.im
+- ⚙️ **[Zot](https://github.com/openzot/openzot)** - automated software factory - https://zot.im
 - 🔒 **[Rook](https://github.com/pdparchitect/rook)** - AI bug hunting harness
 - 🖥️ **[MCPShim](https://github.com/mcpshim)** - Turn remote MCP servers into simple shell commands - https://mcpshim.dev
 - 📡 **[Pantalk](https://github.com/pantalk)** - Give all your AI assistant communication tools for slack, discord, and others - https://pantalk.dev
