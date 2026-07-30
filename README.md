@@ -5,6 +5,7 @@
 
 ## Recent Open Source Work
 
+- 🚀 **[Launcher](https://github.com/pdparchitect/launcher)** - AI agent launcher for Mac, Linux and Windows
 - 🐝 **[Buzzbox](https://github.com/pdparchitect/buzzbox)** - A hive mind communication desktop
 - 🖥️ **[Buzznode](https://github.com/pdparchitect/buzznode)** - A persistent computer for a single hive mind agent
 - 🏭 **[Relentless Works](https://github.com/relentlessworks)** - Autonomous software factory built by AI for AI. - https://relentless.works
