@@ -5,6 +5,7 @@
 
 ## Recent Open Source Work
 
+- 🍜 **[Noodle](https://github.com/pdparchitect/noodle)** - Chat and work with your AI agents in a native macOS messenger
 - 🛡️ **[Pion](https://github.com/pdparchitect/pion)** - AI defense harness
 - 🚀 **[Launcher](https://github.com/pdparchitect/launcher)** - AI agent launcher for Mac, Linux and Windows
 - 🐝 **[Buzzbox](https://github.com/pdparchitect/buzzbox)** - A hive mind communication desktop
