@@ -7,6 +7,7 @@
 
 - 🖼️ **[Diorama](https://github.com/pdparchitect/diorama)** - A virtual display for taking clean screenshots on macOS
 - 🍜 **[Noodle](https://github.com/pdparchitect/noodle)** - Chat and work with your AI agents in a native macOS messenger
+- 📻 **[ModRadio](https://github.com/pdparchitect/modradio)** - A MOD and XM music player for the macOS menu bar
 - 🛡️ **[Pion](https://github.com/pdparchitect/pion)** - AI defense harness
 - 🚀 **[Launcher](https://github.com/pdparchitect/launcher)** - AI agent launcher for Mac, Linux and Windows
 - 🐝 **[Buzzbox](https://github.com/pdparchitect/buzzbox)** - A hive mind communication desktop
