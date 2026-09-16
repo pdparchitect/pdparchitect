@@ -5,6 +5,7 @@
 
 ## Recent Open Source Work
 
+- 🖼️ **[Diorama](https://github.com/pdparchitect/diorama)** - A virtual display for taking clean screenshots on macOS
 - 🍜 **[Noodle](https://github.com/pdparchitect/noodle)** - Chat and work with your AI agents in a native macOS messenger
 - 🛡️ **[Pion](https://github.com/pdparchitect/pion)** - AI defense harness
 - 🚀 **[Launcher](https://github.com/pdparchitect/launcher)** - AI agent launcher for Mac, Linux and Windows
